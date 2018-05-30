@@ -1,0 +1,1 @@
+This is a MadLibs-type game I made using JavaScript while taking the JavaScript Basics course on Treehouse
